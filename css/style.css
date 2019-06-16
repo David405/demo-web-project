@@ -22,3 +22,13 @@
 #img-caption {
     font-size: 18px;
 }
+
+.list
+{
+    align-content: justify;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
