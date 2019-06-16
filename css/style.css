@@ -1,0 +1,24 @@
+.main1 {
+    margin-top: 20px;
+    background-color: #C0C0C0;
+    width: 99%;
+    height: 1700px;
+    margin-left: 9px;
+    text-align: center;
+}
+
+#title {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+#img-div {
+    background-color:  white;
+    height: 700px;
+    width: 98%;
+    margin-left: 20px;
+}
+
+#img-caption {
+    font-size: 18px;
+}
